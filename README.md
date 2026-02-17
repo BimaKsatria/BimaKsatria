@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+![bima banner](img/banner.jpg)
 <!--
 **BimaKsatria/BimaKsatria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m Developer
+- 🌱 I’m currently student of Bina Nusantara University
+- 👯 I’m looking to collaborate on github
+
+![Logo Bima](img/foto%20yomas.png)
+
